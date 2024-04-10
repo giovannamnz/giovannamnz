@@ -1,5 +1,7 @@
-## Olá, eu sou a Giovanna Menezes!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannamnz&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=shadow_red)
+## _Hello World!_ 
+
+❀ Welcome to my profile. My name is Giovanna, I'm a Computer Science student and I currently study several languages as a hobby and I'm also building my own robot. I'm a developer. Thank you for visiting my page! Come back when you feel like it.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannamnz&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=dracula)
 
   ##
  
