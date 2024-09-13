@@ -1,6 +1,5 @@
 <img align="left" alt="Coding" width="auto" src="https://github.com/giovannamnz/giovannamnz/blob/main/header.png">
-
-## 
+<br/>
 ## _Hello World!_ 
 
 ❀ Welcome to my profile. My name is Giovanna, I'm a Computer Science student and I currently study several languages as a hobby and I'm also building my own robot. I'm a developer. Thank you for visiting my page! Come back when you feel like it.
