@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://github.com/giovannamnz/giovannamnz/blob/main/header.png">
+<img align="left" alt="Coding" width="auto" src="https://github.com/giovannamnz/giovannamnz/blob/main/header.png">
 
 ## _Hello World!_ 
 
