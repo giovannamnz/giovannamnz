@@ -5,7 +5,7 @@
 
 ❀ Welcome to my profile. My name is Giovanna, I'm a Computer Science student and I currently study several languages as a hobby and I'm also building my own robot. I'm a developer. Thank you for visiting my page! Come back when you feel like it.
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=giovannamnz&show_icons=true&count_private=true&theme=omni&hide_border=true&hide=issues,contribs&bg_color=00000000">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamnz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamnz&layout=compact&hide_border=true&theme=omni&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 
 
   &nbsp;
